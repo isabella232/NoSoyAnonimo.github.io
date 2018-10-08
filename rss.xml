@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+<title>Blog github</title>
+<description>El rss de mis blogs y página</description>
+<language>es-mx</language>
+<link>https://nosoyanonimo.github.io/rss.xml</link>
+<atom:link href="https://nosoyanonimo.github.io/rss.xml" rel="self" type="application/rss+xml" />
+
+<!-- LB -->
+
+<item>
+<title>Este es el blog :3</title>
+<guid>https://nosoyanonimo.github.io/blog.htm#este-es-el-blog-3</guid>
+<pubDate>lun, 08 oct 2018 16:12:04 -0500</pubDate>
+<description><![CDATA[
+<h2 id='este-es-el-blog-3'>Este es el blog :3</h2><small>[<a aria-hidden="true" href="blog.htm#este-es-el-blog-3">Enlace</a>&mdash;<a href="blog/este-es-el-blog-3.html">Ir al post</a>]</small>
+
+<p>Bienvenidos a este que es el blog de este sitio en github. La idea tras de él no es otra que experimentar.</p>
+
+<p>Saludos.</p>
+]]></description>
+</item>
+
+
+</channel>
+</rss>
