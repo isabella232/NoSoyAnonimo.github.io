@@ -1,0 +1,8 @@
+body{
+    color:navy;
+    background-color:silver;
+    font-family:"Liberation Sans",Helvetica,Arial,Sans-Serif;
+    font-size:0.9em;
+    margin-right:80px;
+    margin-left:80px;
+}
