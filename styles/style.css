@@ -128,7 +128,9 @@ margin: 0px auto;
  .mic:before {
 	  content: "🎙️";
  }
-
+.resaltar{
+    color: red;
+}
 nav ul{
     padding:0;
 }
