@@ -128,3 +128,15 @@ margin: 0px auto;
  .mic:before {
 	  content: "🎙️";
  }
+
+nav ul{
+    padding:0;
+}
+
+nav ul li{
+    display: inline;
+    margin: 5px;
+    font-size:18px;
+    text-transform: uppercase;
+    font-weight:bold;
+}
