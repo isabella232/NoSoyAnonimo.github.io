@@ -16,7 +16,7 @@ a:hover {
 	color: lightblue;
 	}
 
-a:hover img { background: yellow; }
+a:hover img { background: lightgray; }
 
 article {
 	border-left: 10px solid black;
@@ -44,6 +44,9 @@ dt {
 	margin-right: auto;
 	display: inline-table;
 	padding: 0px;
+}
+
+.contacto{
 }
 
 img.centered {
@@ -130,6 +133,9 @@ margin: 0px auto;
  }
 .resaltar{
     color: red;
+}
+nav a{
+    color: #ddd;
 }
 nav ul{
     padding:0;
