@@ -29,6 +29,9 @@ article {
 
 article h2 { margin: 5px auto 2px auto; }
 
+.derecha{
+    margin-left: 10px;
+}
 
 footer strong { font-weight: bold; }
 
@@ -144,7 +147,6 @@ nav ul{
 nav ul li{
     display: inline;
     margin: 5px;
-    font-size:18px;
     text-transform: uppercase;
     font-weight:bold;
 }
