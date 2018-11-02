@@ -29,6 +29,22 @@ article {
 
 article h2 { margin: 5px auto 2px auto; }
 
+/*
+.image {
+    width: 200px !important;
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-table;
+    padding: 0px;
+}
+
+figcaption {
+    	padding: 0px;
+	max-width: 200px;
+}
+*/
+
 .derecha{
     margin-left: 10px;
 }
@@ -47,6 +63,11 @@ dt {
 
 td {
     border: 1px solid black;
+}
+
+.colab{
+    border: 0px;
+    vertical-align: top;
 }
 
 
