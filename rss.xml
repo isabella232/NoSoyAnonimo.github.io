@@ -12,6 +12,30 @@
 <!-- LB -->
 
 <item>
+<title>Mi Otro Canal</title>
+<guid>https://nosoyanonimo.github.io/blog.htm#mi-otro-canal</guid>
+<pubDate>lun, 05 nov 2018 15:46:30 -0600</pubDate>
+<description><![CDATA[
+<h2 id='mi-otro-canal'>Mi Otro Canal</h2><small>[<a aria-hidden="true" href="blog.htm#mi-otro-canal">Enlace</a>&mdash;<a href="blog/mi-otro-canal.html">Ir al post</a>]</small>
+
+<p>Pues ya lo había comentado anteriormente, y si no, pues lo hago por acá. En el mes de ¿mayo? decidí crear un canal de Youtube en el cual pudiera tratar de hacer tutoriales para programas/lenguajes de programación/programas de terminal en Linux.</p>
+
+<p>Mi inquietud surgió cuando estaba tratando de aprender a utilizar LaTeX. Curiosamente noté que Youtube me recomendaba prominentemente tutoriales en inglés. Si bien, si me mostraba tutoriales en español, me llamaba la atención que varios de los tutoriales en inglés corrían sobre Linux, y su terminal. (En ese aspecto, que el Gran Cthulhu bendiga el algoritmo de YouTube). Básicamente era la respuesta a lo que buscaba. Pero por supuesto que me dio curiosidad que tratamiento se le daba al tema en español.</p>
+
+<p>Tengo que aclarar que, sí, por default al buscar LaTeX en youtube tanto en español como en inglés te muestran videos que utilizan interfaces WYSIWYG (lo que ves es lo que obtienes). Es decir, en un principio no se inmiscuyen tanto en la explicación del uso de LaTeX. Por supuesto, la gran mayoría de videos son interfaces o programas como texmaker, el cual es sumamente útil para aprender y que quieras que el programa te lleve un poco de la mano. Sin embargo, con todo y ese detalle me di cuenta de una ENORME diferencia entre los tutoriales en inglés y en español. El problema es que los tutoriales en español te "enseñan" a usar un comando, pero rara vez te explican por qué se usa ese comando. Es decir, rara vez te explican lo que estás haciendo.</p>
+
+<p>Esto no es un problema grave si lo que buscas como espectador es resolver una duda puntual. Es decir, funcionan para sacarte de un apuro. Pero es un hecho que si no sabes por qué se utiliza cierto comando o librería en vez de otra, terminarás olvidándolo. Y lo más seguro es que tengas que volver a realizar la búsqueda del mismo video posteriormente.</p>
+
+<p>No tengo nada en contra de estos canales en español. Pero el hecho de que te digan que debes de usar un encabezado, pero no te digan para qué <b>no ayuda mucho.</b></p>
+
+<p>Con esa consigna es que había decidido crear mi canal. Y bueno... luego pasó NSA, y descuidé ese proyecto. En estos días he decidido revivirlo, y si hay alguien por ahí que sea tan fan de Linux como yo lo soy, podría revisarlo y decirme qué le parece.</p>
+
+<p>Los invito a verlo por <a href="https://www.youtube.com/channel/UCXWMaxXRJ1YtO_2h3UyslXA">acá.</a></p>
+]]></description>
+</item>
+
+
+<item>
 <title>Open Mic sabadominical</title>
 <guid>https://nosoyanonimo.github.io/blog.htm#open-mic-sabadominical</guid>
 <pubDate>lun, 05 nov 2018 03:17:44 -0600</pubDate>
