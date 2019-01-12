@@ -2,7 +2,7 @@
 name="No Soy Anónimo"
 webdir="$(pwd)"
 website="https://nosoyanonimo.github.io/" # Keep a trailing slash.
-css="\/styles\/style.css"
+css="/styles/style.css"
 blogfile="2019.htm"
 indexfile="bloglist.htm"
 rssfile="rss.xml"
