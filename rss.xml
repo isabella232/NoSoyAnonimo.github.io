@@ -4,10 +4,17 @@
 
 <channel>
 <title>El blog de No Soy Anónimo</title>    
-<description>El rss de mis blogs y página</description>
+<description>Actualizaciones de No Soy Anónimo. Copia este rss en tu feed para recibirlas.</description>
 <language>es-mx</language>
 <link>https://nosoyanonimo.github.io/rss.xml</link>
 <atom:link href="https://nosoyanonimo.github.io/rss.xml" rel="self" type="application/rss+xml" />
+
+<image>
+    <title>El blog de No Soy Anónimo</title>
+    <url>http://nosoyanonimo.github.io/favicon.ico</url>
+    <link>http://nosoyanonimo.github.io/rss.xml</link>
+</image>
+
 
 <!-- LB -->
 
