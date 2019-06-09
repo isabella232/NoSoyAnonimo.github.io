@@ -1,2 +1,9 @@
 Options +Indexes
 AddDescription "Ya tengo Arch Linux" "ya-tengo-arch-linux.html" #sáb, 11 may 2019 01:23:56 -0500
+AddDescription "La que se nos viene, Kondenadotes" "la-que-se-nos-viene-kondenadotes.html"
+AddDescription "El proceso de renovación (que no es)" "el-proceso-de-renovación-que-no-es.html"
+AddDescription "Proceso de renovación (que no es tanto)" "proceso-de-renovación-que-no-es-tanto.html"
+AddDescription "" ".html"
+AddDescription "" ".html"
+AddDescription "El proceso de renovación (que no es)
+Renovación (que no es)" "renovación-que-no-es.html" #dom, 09 jun 2019 15:11:53 -0500
