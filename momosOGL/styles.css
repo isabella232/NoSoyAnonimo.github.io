@@ -1,0 +1,24 @@
+html{
+    color: white;
+    background: linear-gradient(90deg, darkgreen, white, darkred), #ccc
+}
+
+img {
+    max-height: 400px;
+    max-width: 400px;
+    display: block;
+    margin: auto;
+}
+
+body{
+    max-width: 800px;
+    background: black;
+    margin: 20px auto 400px auto;
+    padding: 50px 50px 200px 50px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+a{color: green; }
