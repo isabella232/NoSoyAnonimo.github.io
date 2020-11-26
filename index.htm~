@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+	<title>Página web de No Soy Anónimo</title>
+	<link rel="shortcut icon" type="image/png" href="favicon.ico"/>
+	<link rel="stylesheet" href="styles/style.css" media=all>
+    </head>
+    <body>
+	<header>
+	    <h1>Página de No Soy Anónimo</h1>
+	</header>
+	<nav>
+	    <ul>
+		<li class="resaltar">Inicio</li>
+		<li><a href="bloglist.htm">Blog</a></li>
+		<li><a href="contacto.htm">Contacto</a></li>
+	    </ul>
+	</nav>
+
+	<div style="float: left; max-width: 700px;">
+	    <article>
+	<h2>Bienvenidos</h2>
+
+	<p>Esta es la página de NoSoyAnónimo. Tengo un canal de Youtube, y decidí crear esta página para que sirva como medio de contacto y respaldo del contenido creado.</p>
+	    <br>
+	    <h2>Donaciones</h2>
+
+		<p>Si el contenido del canal o demás material multimedia (#proximamente) es de su agrado, consideren <a href="donaciones.htm">apoyar al canal.</a> De momento, solo es posible mediante PayPal. Pero en el futuro (ya con mejor equipo) podría incluso crear un Patreon con contenido exclusivo.</p>
+
+		<p>Si no lo consideran así, no hay problema. Con que expresen la opinión que les merece mi contenido, me daré por bien servido (solo espero que no sea la abrumadora mayoría xD).</p>
+	    </article>
+	    <article>
+		<h2>Pronto nuevas secciones</h2>
+
+		<p>En algún momento de este 2019 estaré creando nuevas secciones para esta página. Tienen mucho que ver con proyectos adicionales.</p>
+
+		<p>De uno de ellos ya he hablado, y es la estación de radio. Aunque está en veremos.</p>
+
+		<p>Por otro lado, el proyecto del <i>podcast</i> es un tanto más prometedor, y ya se estarán enterando.</p>
+	    </article>
+	    <article>
+	<h2>¿Por qué esta página tan simple?</h2>
+
+	<p>Soy de la filosofía de que visitar una página web no requiere interfacez innecesariamente complicadas para fingir un "minimalismo" que las páginas no tienen.</p>
+
+	<p>Por tanto, decidí crear una página simple con la cual pueda seguir realizando actualizaciones simples, sin ningún tipo de interfaz demasiado complicada.</p>
+
+	<p>Esto, en español, quiere decir que tengo una página simple a la que es fácil darle mantenimiento, y que es ligera</p>
+	    </article>
+	    <article>
+	<h2>Visita el blog</h2>
+
+	<p>He decidido descontinuar mi blogger. El motivo, es que realmente no lo utilizo, ni es visitado. Aún teniendo caja de comentarios, nadie realiza algún comentario. Además de que dificilmente puedo actualizarlo.</p>
+	<p>Cualquier actualización vendrá por este lado.</p>
+	<p>A partir de ahora, mi blog estará disponible <a href="bloglist.htm">por acá</a>.</p>
+	<p>Si quieren seguir cualquier actualización, pueden agregar <a href="rss.xml">este archivo</a> a sus feeds.</p>
+	    </article></div>
+	<div style="float: left; max-width: 300px;">
+	    <article class="derecha">
+		<h2>Contacto</h2>
+
+	    <ul>
+		<li>Personal:</li>
+		<ul>
+		    <li><a target="_blank" href="http://www.youtube.com/c/NoSoyAnónimo "><img src="logos/yt.png"> Youtube</a></li>
+		    <li><a target="_blank" href="http://twitter.com/NoSoyAnonimo_"><img src="logos/twitter.png" alt="twatter"> Twitter</a></li>
+		    <li><a target="_blank" href="http://facebook.com/nosoyanonimo"><img src="logos/fb.png" alt="Facebook"> Facebook</a></li>
+		    <li><a target="_blank" href="mailto:nosoyanonimo@airmail.cc"><img src="logos/mail.png" alt="email"> Correo Electrónico</a></li>
+		    <li><a target="_blank" href="https://instagram.com/nosoyanonimo_"><img src="logos/ig.png" alt="Instagram"> Instagram</a></li>
+		</ul>
+		<li>Contenido:</li>
+		<ul>
+		    <li><a target="_blank" href="http://no-soy-anonimo.blogspot.com">Blogger</a></li>
+		    <li><a target="_blank" href="https://mx.ivoox.com/es/nosoyanonimo_aj_12494309_1.html">Ivoox</a></li>
+		    <li><a target="_blank" href="https://github.com/nosoyanonimo">Github</a></li>
+	    </ul>
+	    </article>
+	    <article class="derecha">
+		<h2>Contenido de la página (#proximamente)</h2>
+		<ul>
+		    <li><a href="whyOGL.htm">¿Por qué OGL?</a></li>
+		    <li><a href="colab.htm">Colaboraciones con compañeros de jiribilla</a></li>
+		    <li><a href="archivos.htm">Archivos que utilicé en livestreams (a partir del 30 de octubre)</a></li>
+		    <li><a href="cronoscopia.htm">Cronoscopía chicarquiana</a></li>
+		</ul>
+	    </article>
+	</div>
+    </body>
+</html>
+
